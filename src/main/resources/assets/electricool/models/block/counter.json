@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "electricool:blocks/sidetexture",
+    "down": "electricool:blocks/sidetexture",
+    "up": "electricool:blocks/sidetexture",
+    "east": "electricool:blocks/sidetexture",
+    "west": "electricool:blocks/sidetexture",
+    "north": "electricool:blocks/plustexture",
+    "south": "electricool:blocks/sidetexture"
+  }
+}
